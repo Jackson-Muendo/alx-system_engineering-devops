@@ -1,2 +1,2 @@
 #!/bin/bash
-echo pwd
+if(pwd) echo {The current directory is}
