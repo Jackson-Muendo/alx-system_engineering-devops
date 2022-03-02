@@ -1,3 +1,2 @@
-#!/bin/bash
-echo cd /user>> 2-bring_me_home
-cd /user
+#!/bin/bash 
+ cd /
