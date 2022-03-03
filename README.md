@@ -1,3 +1,1 @@
-#!/bin/bash
-echo "Current directory `pwd`"
-
+shell permissions
